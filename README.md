@@ -1,0 +1,2 @@
+# 01_Android-Java-BMI-Calculator
+The Simple BMI Calculator app allows users to input their height and weight to calculate their Body Mass Index (BMI). The app then categorizes the BMI result into one of four categories: underweight, healthy, overweight, or obese. The result is displayed with a background color corresponding to the category.![image](https://github.com/Freedmores/01_Android-Java-BMI-Calculator/assets/28737143/bd4d2025-ee3b-4f54-8c8e-16eba9f7973b)
