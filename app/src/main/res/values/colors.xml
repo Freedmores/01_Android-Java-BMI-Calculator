@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorUnderweight">#0000FF</color>
+    <color name="colorHealthy">#008000</color>
+    <color name="colorObese">#C62828</color>
+    <color name="bgUnderweight">#0000FF</color>
+    <color name="bgHealthy">#008000</color>
+    <color name="bgOverweight">#EF6C00</color>
+    <color name="bgObese">#FF0000</color>
+    <color name="royalBlue">#4169E1</color>
+    <color name="royalBlueDark">#27408B</color>
+    <color name="royalBlueAccent">#6A5ACD</color>
+    <color name="grey">#cccccc</color>
+
+
+</resources>
